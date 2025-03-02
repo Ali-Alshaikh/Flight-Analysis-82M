@@ -68,7 +68,18 @@ or `pip install seaborn pyarrow polars` in the `terminal` or in the `cmd`
 
 5. HAPPY CODING 😉
 
+# Presentation Mode using (RISE)
 
+1. `pip install rise`
+   - Look at this link to see how to deal with rise: https://rise.readthedocs.io/en/latest/usage.html#creating-a-slideshow
+2. How to change the cells to: `slide` , `sub-slide`, `fragment`, etc. :
+     ![Screenshot 2025-03-02 at 5 20 08 PM](https://github.com/user-attachments/assets/8c4b91ed-ab67-4787-bcf2-1f755e6609b8)
+
+   ![Screenshot 2025-03-02 at 5 19 01 PM](https://github.com/user-attachments/assets/5d30900b-c13f-4dc9-9dc5-d375a37ea186)
+
+![Screenshot 2025-03-02 at 5 19 33 PM](https://github.com/user-attachments/assets/7e773b0b-da91-4f29-8cf7-9535f9d3ea82)
+
+   
 
 # Thank You & Have a Wonderful Exploration ☕️
 ## RAMADAN MUBARAK 🌙
