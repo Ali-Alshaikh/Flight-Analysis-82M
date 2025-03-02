@@ -5,7 +5,7 @@ I analysed this dataset: https://www.kaggle.com/datasets/dilwong/flightprices
 the `final_analysis.ipynb` **jupyter notebook** is using the 2 million version of this dataset
 
 # Exploration Notebooks (folder)
-- contains the exploration notebooks used to do the # EDA thingy, take a look if you want
+- contains the exploration notebooks used to do the **EDA** (Exploratory data analysis) thingy, take a look if you want
 
 # Run the project by Yourself: 
 
