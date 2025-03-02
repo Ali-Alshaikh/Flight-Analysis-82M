@@ -10,6 +10,26 @@ the .ipynb jupyter notebook is using the 2 million version of this dataset
 
 2. then you can use the `final-analysis.py` to generate the graphs to your system. OR use the `final analysis jupyter notebook` to make this project work 😊
 
+# Requirments 
+1. python
+2. The following imports:
+  ```python
+      import pandas as pd
+      import matplotlib.pyplot as plt
+      import seaborn as sns
+      import matplotlib.ticker as mticker
+      import os
+      import time
+      from glob import glob
+      import pyarrow.parquet as pq
+      import polars as pl
+   ```
+
+I think most of the lad's reading this already have all these imports, but may miss the following: 
+1. pip install polars
+2. pyarrow
+3. seaborn
+
 
 # Thank You & Have a Wonderful Exploration ☕️
 ## RAMADAN MUBARAK 🌙
