@@ -26,9 +26,12 @@ the .ipynb jupyter notebook is using the 2 million version of this dataset
    ```
 
 I think most of the lad's reading this already have all these imports, but may miss the following: 
-1. pip install polars
-2. pyarrow
-3. seaborn
+1. polars - use --> `pip install polars`
+2. pyarrow - use --> `pip install pyarrow`
+3. seaborn - use --> `pip install seaborn`
+
+or `pip install seaborn pyarrow polars` in the terminal or in the `cmd`
+
 
 
 # Thank You & Have a Wonderful Exploration ☕️
