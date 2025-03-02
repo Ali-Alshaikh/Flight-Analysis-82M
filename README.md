@@ -34,11 +34,10 @@ the `final_analysis.ipynb` **jupyter notebook** is using the 2 million version o
          # loaded at the end
          df = pd.read_csv('final_data_2m.csv')
 
-         # CHANGE IT TO ☕️🧠
+         # CHANGE IT TO ☕️
          df = pd.read_csv('final_data.csv')
       ```
 
-2. then you can use the `final-analysis.py` to generate the graphs to your system. OR use the `final analysis jupyter notebook` to make this project work 😊
 
 # Requirments 
 1. python
