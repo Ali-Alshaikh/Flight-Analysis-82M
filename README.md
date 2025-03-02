@@ -22,8 +22,12 @@ the `final_analysis.ipynb` **jupyter notebook** is using the 2 million version o
 
    ```
 
-3. here you have options after this point:
+3. here you have 2 options after this point:
+
+
    3.1. go to `Scripts` -> `final-analysis.py` and `RUN IT`, using `python3 final-analysis.py` -- This will take time to run, depending on your dataset size ex. 2_000_000, it may take up to 60 seconds so don't worry. put an eye the `Memory Pressure`, or the `RAM`.
+
+
    3.2. OR use the jupyter notebook `final_analysis.ipynb` and change the following cell:
 
       ```pyhton
